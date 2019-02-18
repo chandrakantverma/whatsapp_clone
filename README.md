@@ -1,25 +1,6 @@
 WhatsAppClone 
 # WhatsApp_Android_Clone 
- 
-▷ Create an android app like whatsApp 
- 
-▷ Full Video Tutorial Playlist here: https://www.youtube.com/watch?v=wdcH58Nzm-o&index=1&list=PLxabZQCAe5fgGQggJxp5nuI1ESzP-oMED <br /> 
- 
-▷ Become a Patreon: https://www.patreon.com/simpleCoder<br /> 
-▷ Donate with PayPal: https://www.paypal.me/simcoder<br /> 
-▷ Twitter: https://twitter.com/S1mpleCoder<br /> 
-▷ GitHub : https://goo.gl/88FHk4<br /> 
- 
-▷ If you have any question please ask, I'll try to answer to every question and even look at your code if that is necessary. 
- 
- 
-**Important Links** 
- 
-Firebase: https://goo.gl/9Wahb1<br /> 
-Glide: https://github.com/bumptech/glide<br /> 
- 
-P.S: If ou're going to download the full project please use your own firebase API, the one in the project will NOT be mantained and the app may not work. 
- 
+
  
 # Implementation Guide<br /> 
 **1 - Project**<br /> 
